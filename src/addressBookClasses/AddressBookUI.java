@@ -6,7 +6,6 @@ import javafx.scene.control.Alert.AlertType;
 import javafx.scene.layout.VBox;
 
 
-
 public class AddressBookUI {
     private AddressBook addressBook;
     private ContactListView contactListView;
