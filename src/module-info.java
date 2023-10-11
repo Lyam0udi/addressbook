@@ -5,6 +5,4 @@ module addressbook {
     opens addressBookClasses to javafx.fxml;
     exports addressBookClasses;
     
-    
-    
 }
